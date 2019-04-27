@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on I am dylan ...</title>
+    <link>https://dylan-yht.github.io/tags/web/</link>
+    <description>Recent content in web on I am dylan ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:dylan.yanght@gmail.com (dylan)</managingEditor>
+    <webMaster>mailto:dylan.yanght@gmail.com (dylan)</webMaster>
+    <lastBuildDate>Sat, 27 Apr 2019 10:45:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://dylan-yht.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://dylan-yht.github.io/post/test/</link>
+      <pubDate>Sat, 27 Apr 2019 10:45:46 +0800</pubDate>
+      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
+      <guid>https://dylan-yht.github.io/post/test/</guid>
+      <description>阿杜功夫都很舒服爱USDGFUI大V十多个从打算凑</description>
+    </item>
+    
+  </channel>
+</rss>
