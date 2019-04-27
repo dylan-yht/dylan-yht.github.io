@@ -8,10 +8,19 @@
     <language>en</language>
     <managingEditor>mailto:dylan.yanght@gmail.com (dylan)</managingEditor>
     <webMaster>mailto:dylan.yanght@gmail.com (dylan)</webMaster>
-    <lastBuildDate>Sat, 27 Apr 2019 16:10:22 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 17:44:21 +0800</lastBuildDate>
     
 	<atom:link href="https://dylan-yht.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Index</title>
+      <link>https://dylan-yht.github.io/about/</link>
+      <pubDate>Sat, 27 Apr 2019 17:44:21 +0800</pubDate>
+      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
+      <guid>https://dylan-yht.github.io/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>测试文档</title>
@@ -20,6 +29,15 @@
       <author>mailto:dylan.yanght@gmail.com (dylan)</author>
       <guid>https://dylan-yht.github.io/post/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hhh</title>
+      <link>https://dylan-yht.github.io/post/hhh/</link>
+      <pubDate>Sat, 27 Apr 2019 10:55:31 +0800</pubDate>
+      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
+      <guid>https://dylan-yht.github.io/post/hhh/</guid>
+      <description>这也是一个测试文档</description>
     </item>
     
     <item>
