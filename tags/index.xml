@@ -6,8 +6,6 @@
     <description>Recent content in Tags on I am dylan ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mailto:dylan.yanght@gmail.com (dylan)</managingEditor>
-    <webMaster>mailto:dylan.yanght@gmail.com (dylan)</webMaster>
     <lastBuildDate>Sat, 27 Apr 2019 10:45:46 +0800</lastBuildDate>
     
 	<atom:link href="https://dylan-yht.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +15,7 @@
       <title>golang</title>
       <link>https://dylan-yht.github.io/tags/golang/</link>
       <pubDate>Sat, 27 Apr 2019 10:45:46 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
+      
       <guid>https://dylan-yht.github.io/tags/golang/</guid>
       <description></description>
     </item>
@@ -26,7 +24,7 @@
       <title>web</title>
       <link>https://dylan-yht.github.io/tags/web/</link>
       <pubDate>Sat, 27 Apr 2019 10:45:46 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
+      
       <guid>https://dylan-yht.github.io/tags/web/</guid>
       <description></description>
     </item>

@@ -6,8 +6,6 @@
     <description>Recent content in other on I am dylan ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mailto:dylan.yanght@gmail.com (dylan)</managingEditor>
-    <webMaster>mailto:dylan.yanght@gmail.com (dylan)</webMaster>
     <lastBuildDate>Sat, 27 Apr 2019 10:45:46 +0800</lastBuildDate>
     
 	<atom:link href="https://dylan-yht.github.io/categories/other/index.xml" rel="self" type="application/rss+xml" />
@@ -15,10 +13,10 @@
     
     <item>
       <title>Test</title>
-      <link>https://dylan-yht.github.io/post/test/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/test/</link>
       <pubDate>Sat, 27 Apr 2019 10:45:46 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/test/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/test/</guid>
       <description>阿杜功夫都很舒服爱USDGFUI大V十多个从打算凑</description>
     </item>
     

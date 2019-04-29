@@ -6,75 +6,80 @@
     <description>Recent content on I am dylan ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mailto:dylan.yanght@gmail.com (dylan)</managingEditor>
-    <webMaster>mailto:dylan.yanght@gmail.com (dylan)</webMaster>
-    <lastBuildDate>Sat, 27 Apr 2019 19:24:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 14:18:37 +0800</lastBuildDate>
     
 	<atom:link href="https://dylan-yht.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Links</title>
+      <link>https://dylan-yht.github.io/links/</link>
+      <pubDate>Mon, 29 Apr 2019 14:18:37 +0800</pubDate>
+      
+      <guid>https://dylan-yht.github.io/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://dylan-yht.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
+      
       <guid>https://dylan-yht.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <description>Hugo is a static site engine written in Go. 交汇处即可自动创建哈师大家换算成 督公湖擦哈工大空城计哈的故事</description>
     </item>
     
     <item>
       <title>Ceshi</title>
-      <link>https://dylan-yht.github.io/post/ceshi/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/ceshi/</link>
       <pubDate>Sat, 27 Apr 2019 19:24:59 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/ceshi/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/ceshi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ghj</title>
-      <link>https://dylan-yht.github.io/post/ghj/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/ghj/</link>
       <pubDate>Sat, 27 Apr 2019 19:10:22 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/ghj/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/ghj/</guid>
       <description>aodsofdascjbasdjlckdsj</description>
     </item>
     
     <item>
       <title>测试文档</title>
-      <link>https://dylan-yht.github.io/post/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
       <pubDate>Sat, 27 Apr 2019 16:10:22 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hhh</title>
-      <link>https://dylan-yht.github.io/post/hhh/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/hhh/</link>
       <pubDate>Sat, 27 Apr 2019 10:55:31 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/hhh/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/hhh/</guid>
       <description>这也是一个测试文档</description>
     </item>
     
     <item>
       <title>indes</title>
-      <link>https://dylan-yht.github.io/post/hhh.1/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/indes/</link>
       <pubDate>Sat, 27 Apr 2019 10:55:31 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/hhh.1/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/indes/</guid>
       <description>这也是一个测试文档</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://dylan-yht.github.io/post/test/</link>
+      <link>https://dylan-yht.github.io/post/2019/04/27/test/</link>
       <pubDate>Sat, 27 Apr 2019 10:45:46 +0800</pubDate>
-      <author>mailto:dylan.yanght@gmail.com (dylan)</author>
-      <guid>https://dylan-yht.github.io/post/test/</guid>
+      
+      <guid>https://dylan-yht.github.io/post/2019/04/27/test/</guid>
       <description>阿杜功夫都很舒服爱USDGFUI大V十多个从打算凑</description>
     </item>
     
